@@ -38,7 +38,7 @@ class Owner
   end
   
   def sell_pets
-    cat.each.
+    cats.each 
   end
     
   def self.all 
